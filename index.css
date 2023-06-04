@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background: #ECFDF5;
+    padding: 20px 30px
+}
+h1 {
+    margin: 20px 0 10px 0;
+}
+em {
+    font-style: normal;
+    color: #10B981;
+}
+
+p {
+    color: #6B7280;
+    margin-top: 0px;
+}
+
+#btn {
+    background: #10B981;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    margin: 0 0 20px 0;
+    
+}
+.passwordDisply {
+    background:#273549;
+    text-align: center;
+    color: #10B981;
+    padding: 10px ;
+    width: 211px;
+    height: 39px;
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 30px 3px;
+    border-radius: 3px;
+    
+}
